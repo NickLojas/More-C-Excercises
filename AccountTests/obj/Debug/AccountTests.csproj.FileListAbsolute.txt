@@ -1,0 +1,12 @@
+/Users/nicklojas/Projects/InterviewQuestions/AccountTests/obj/Debug/AccountTests.csproj.CoreCompileInputs.cache
+/Users/nicklojas/Projects/InterviewQuestions/AccountTests/obj/Debug/AccountTests.csprojAssemblyReference.cache
+/Users/nicklojas/Projects/InterviewQuestions/AccountTests/bin/Debug/AccountTests.dll
+/Users/nicklojas/Projects/InterviewQuestions/AccountTests/bin/Debug/AccountTests.pdb
+/Users/nicklojas/Projects/InterviewQuestions/AccountTests/bin/Debug/nunit.framework.dll
+/Users/nicklojas/Projects/InterviewQuestions/AccountTests/bin/Debug/ShortConsoleApplications.exe
+/Users/nicklojas/Projects/InterviewQuestions/AccountTests/bin/Debug/ShortConsoleApplications.pdb
+/Users/nicklojas/Projects/InterviewQuestions/AccountTests/bin/Debug/nunit.framework.pdb
+/Users/nicklojas/Projects/InterviewQuestions/AccountTests/bin/Debug/nunit.framework.xml
+/Users/nicklojas/Projects/InterviewQuestions/AccountTests/obj/Debug/AccountTests.csproj.CopyComplete
+/Users/nicklojas/Projects/InterviewQuestions/AccountTests/obj/Debug/AccountTests.dll
+/Users/nicklojas/Projects/InterviewQuestions/AccountTests/obj/Debug/AccountTests.pdb

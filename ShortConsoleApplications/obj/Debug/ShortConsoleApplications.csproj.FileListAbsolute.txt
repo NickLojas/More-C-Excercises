@@ -1,0 +1,6 @@
+/Users/nicklojas/Projects/InterviewQuestions/ShortConsoleApplications/bin/Debug/ShortConsoleApplications.exe
+/Users/nicklojas/Projects/InterviewQuestions/ShortConsoleApplications/bin/Debug/ShortConsoleApplications.pdb
+/Users/nicklojas/Projects/InterviewQuestions/ShortConsoleApplications/obj/Debug/ShortConsoleApplications.csproj.CoreCompileInputs.cache
+/Users/nicklojas/Projects/InterviewQuestions/ShortConsoleApplications/obj/Debug/ShortConsoleApplications.exe
+/Users/nicklojas/Projects/InterviewQuestions/ShortConsoleApplications/obj/Debug/ShortConsoleApplications.pdb
+/Users/nicklojas/Projects/InterviewQuestions/ShortConsoleApplications/obj/Debug/ShortConsoleApplications.csprojAssemblyReference.cache
